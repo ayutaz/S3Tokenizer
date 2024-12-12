@@ -1,3 +1,4 @@
+cffi==1.17.1
 colorama==0.4.6
 coloredlogs==15.0.1
 einops==0.8.0
@@ -14,8 +15,10 @@ onnx==1.17.0
 onnxruntime==1.20.1
 packaging==24.2
 protobuf==5.29.1
+pycparser==2.22
 pyreadline3==3.5.4
 s3tokenizer==0.0.8
+soundfile==0.12.1
 sympy==1.13.1
 torch==2.5.1+cu121
 torchaudio==2.5.1+cu121
